@@ -1,2 +1,0 @@
-# CurrencyCalc
-Created with CodeSandbox
